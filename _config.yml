@@ -1,0 +1,23 @@
+name: gregory
+favicon: null
+layout_spectrum: 0.9194007278420031
+typography_spectrum: 0.5134942785371095
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.24873440200462937
+  lightness: 0.13549643685109913
+  saturation: 0.8857352922204882
+  rhythmicContrast: 0.3154004926327616
+purpose: []
